@@ -1,14 +1,18 @@
 # KET (Key English Test) Materials
+<!-- KET剑桥英语入门考试材料 -->
 
 ## Overview
+<!-- 概述 -->
 This folder contains preparation materials for the Cambridge English Key (KET) exam, which tests basic English skills at A2 level of the Common European Framework of Reference (CEFR).
 
 ## Test Level
+<!-- 考试级别 -->
 - **CEFR Level**: A2 (Elementary)
 - **Target Audience**: Beginners who have basic English skills
 - **Age Range**: Typically 11+ years old
 
 ## Recommended Materials Structure
+<!-- 推荐材料结构 -->
 ```
 KET/
 ├── Reading_and_Writing/
@@ -36,6 +40,7 @@ KET/
 ```
 
 ## Test Components
+<!-- 考试组成部分 -->
 
 ### 1. Reading and Writing (1 hour 10 minutes)
 - **9 parts**: Various reading and writing tasks
@@ -52,12 +57,14 @@ KET/
 - **Skills**: Basic conversation and interaction
 
 ## Key Skills Tested
+<!-- 测试的关键技能 -->
 - **Reading**: Understanding signs, simple texts, conversations
 - **Writing**: Completing forms, writing short messages
 - **Listening**: Understanding announcements, conversations
 - **Speaking**: Giving personal information, simple discussions
 
 ## Vocabulary Areas
+<!-- 词汇范围 -->
 - Clothes and appearance
 - Daily life and routines
 - Entertainment and media
@@ -81,6 +88,7 @@ KET/
 - Work and jobs
 
 ## Preparation Tips
+<!-- 备考建议 -->
 - **Study Duration**: 2-4 months for beginners
 - **Daily Practice**: 1-2 hours recommended
 - **Focus Areas**: Basic vocabulary and simple grammar
@@ -88,6 +96,7 @@ KET/
 - **Speaking**: Practice basic conversations with partners
 
 ## Scoring
+<!-- 评分标准 -->
 - **Pass Grades**: A, B, C
 - **Grade A**: 140-150 (also receives B1 Preliminary certificate)
 - **Grade B**: 133-139

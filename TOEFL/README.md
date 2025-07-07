@@ -1,14 +1,18 @@
 # TOEFL (Test of English as a Foreign Language) Materials
+<!-- 托福考试材料 -->
 
 ## Overview
+<!-- 概述 -->
 This folder contains comprehensive preparation materials for the TOEFL iBT (Internet-based Test), primarily used for university admissions in North America.
 
 ## Test Format
+<!-- 考试形式 -->
 - **TOEFL iBT**: Computer-based test measuring academic English skills
 - **Duration**: Approximately 3 hours
 - **Delivery**: Online at authorized test centers
 
 ## Recommended Materials Structure
+<!-- 推荐材料结构 -->
 ```
 TOEFL/
 ├── Reading/
@@ -37,6 +41,7 @@ TOEFL/
 ```
 
 ## Test Sections
+<!-- 考试部分 -->
 
 ### 1. Reading (54-72 minutes)
 - **3-4 passages**: Academic texts from university-level materials
@@ -61,11 +66,13 @@ TOEFL/
 - **Skills**: Organization, development, language use, grammar
 
 ## Scoring System
+<!-- 评分系统 -->
 - **Scale**: 0-120 total (0-30 per section)
 - **Common Requirements**: 80-100 for most universities
 - **Score Validity**: 2 years from test date
 
 ## Key Preparation Strategies
+<!-- 关键备考策略 -->
 - **Academic Focus**: Emphasize academic vocabulary and concepts
 - **Integrated Skills**: Practice combining reading/listening with speaking/writing
 - **Time Management**: Strict timing practice for all sections
@@ -74,6 +81,7 @@ TOEFL/
 - **Study Timeline**: 3-6 months of dedicated preparation
 
 ## Test Day Tips
+<!-- 考试当天建议 -->
 - Arrive early and bring required identification
 - Use provided scratch paper effectively
 - Manage time carefully in each section

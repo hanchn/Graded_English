@@ -1,13 +1,17 @@
 # IELTS (International English Language Testing System) Materials
+<!-- 雅思考试材料 -->
 
 ## Overview
+<!-- 概述 -->
 This folder contains comprehensive preparation materials for the IELTS exam, designed for students planning to study or work in English-speaking countries.
 
 ## Test Formats
+<!-- 考试形式 -->
 - **Academic IELTS**: For university admission and professional registration
 - **General Training IELTS**: For immigration and work purposes
 
 ## Recommended Materials Structure
+<!-- 推荐材料结构 -->
 ```
 IELTS/
 ├── Listening/
@@ -35,6 +39,7 @@ IELTS/
 ```
 
 ## Test Components (All 4 Skills)
+<!-- 考试组成部分（四项技能） -->
 
 ### 1. Listening (30 minutes + 10 minutes transfer)
 - **4 sections**: Conversations and monologues
@@ -57,11 +62,13 @@ IELTS/
 - **Part 3**: Discussion (4-5 minutes)
 
 ## Scoring System
+<!-- 评分系统 -->
 - **Band Scores**: 0-9 (half bands available)
 - **Overall Band**: Average of four skills
 - **Common Requirements**: 6.0-7.5 for most institutions
 
 ## Preparation Strategies
+<!-- 备考策略 -->
 - **Study Duration**: 3-6 months recommended
 - **Daily Practice**: 2-3 hours across all skills
 - **Mock Tests**: Weekly full-length practice tests
